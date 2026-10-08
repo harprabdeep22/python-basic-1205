@@ -1,4 +1,4 @@
-## Factorial Calculator
+take a factorial ## Factorial Calculator
 A simple Python application that calculates the factorial
 of any number .
 ## Features
